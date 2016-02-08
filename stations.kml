@@ -1,0 +1,609 @@
+<kml xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>台南臨時供水站地點 (105-02-08 18:20)</name>
+    <description>自來水處已於 2016-02-08 架設完成之臨時供水站地點&lt;br&gt;來源: http://www.water.gov.tw/06news/news_b_main2.asp?no_g=6226&lt;br&gt;編輯聯繫: rex.cc.tsai@gmail.com&lt;br&gt;</description>
+  </Document>
+  <Folder id="stations">
+    <name>臨時供水站</name>
+    <Placemark>
+      <name>中西區中西區公所</name>
+      <description>1 - 台南所中西區中西區公所&lt;br&gt;台南市中西區開山路1號-中西區公所&lt;br&gt;楊股長 06-2370021</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2055998,22.9922404,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>中西區華南銀行</name>
+      <description>2 - 台南所中西區華南銀行&lt;br&gt;台南市中西區永福路2段154號-華南銀行&lt;br&gt;楊股長 06-2370021</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2017221,22.9946722,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>中西區停車場</name>
+      <description>3 - 台南所中西區停車場&lt;br&gt;台南市中西區大埔街43號對面-延平郡王祠停車場&lt;br&gt;楊股長 06-2370021</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2087579,22.9870696,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>中西區小康市場</name>
+      <description>4 - 台南所中西區小康市場&lt;br&gt;台南市中西區文賢路197號-第一小康市場&lt;br&gt;楊股長 06-2370021</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.193076,23.0035451,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>中西區人行道</name>
+      <description>5 - 台南所中西區人行道&lt;br&gt;台南市中西區海安路2段297號-基督教會邊人行道&lt;br&gt;楊股長 06-2370021</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.1970658,22.9968379,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>中西區樹林街停車場</name>
+      <description>6 - 台南所中西區樹林街停車場&lt;br&gt;台南市中西區樹林街1段181號旁&lt;br&gt;楊股長 06-2370021</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2125304,22.986515,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>中西區建國戲院旁</name>
+      <description>7 - 台南所中西區建國戲院旁&lt;br&gt;台南市中西區民權路1段56號靠巷子旁&lt;br&gt;楊股長 06-2370021</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2103667,22.9898699,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>中西區民族路停車場</name>
+      <description>8 - 台南所中西區民族路停車場&lt;br&gt;台南市中西區民族路2段87號&lt;br&gt;楊股長 06-2370021</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2090176,22.9944548,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>中西區友愛東街空地</name>
+      <description>9 - 台南所中西區友愛東街空地&lt;br&gt;台南市中西區友愛東街15號前空地&lt;br&gt;楊股長 06-2370021</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2074253,22.9919839,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>中西區福德爺廟旁</name>
+      <description>10 - 台南所中西區福德爺廟旁&lt;br&gt;台南市中西區城隍街21號對面&lt;br&gt;楊股長 06-2370021</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2075522,22.9890019,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>東區東區公所</name>
+      <description>11 - 台南所東區東區公所&lt;br&gt;台南市東區崇學路100號-東區公所(崇信里)&lt;br&gt;楊股長 06-2370021</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.224004,22.9802421,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>東區大智里活動中心</name>
+      <description>12 - 台南所東區大智里活動中心&lt;br&gt;台南市東區德東街90號-大智里活動中心(大智里)&lt;br&gt;楊股長 06-2370021</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2302508,22.9615898,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>東區市立醫院</name>
+      <description>13 - 台南所東區市立醫院&lt;br&gt;台南市東區崇德路670號-市立醫院前(崇成里)&lt;br&gt;楊股長 06-2370021</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2268128,22.9687059,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>東區公園</name>
+      <description>14 - 台南所東區公園&lt;br&gt;台南市東區裕農三街116號對面-裕農三街公園(關聖里)&lt;br&gt;楊股長 06-2370021</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.239559,22.9861359,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>東區大同市場</name>
+      <description>15 - 台南所東區大同市場&lt;br&gt;台南市東區立德十路29號-大同市場前(大德里)&lt;br&gt;楊股長 06-2370021</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2146835,22.9780572,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>東區活動中心</name>
+      <description>16 - 台南所東區活動中心&lt;br&gt;台南市東區長榮路2段17號-活動中心(中西里)&lt;br&gt;楊股長 06-2370021</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2189785,22.9873031,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>東區東聖里活動中心</name>
+      <description>17 - 台南所東區東聖里活動中心&lt;br&gt;台南市東區中華東路2段133巷17弄58號-東聖里活動中心(東聖里)&lt;br&gt;楊股長 06-2370021</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2343019,22.986062,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>東區大榕樹下</name>
+      <description>18 - 台南所東區大榕樹下&lt;br&gt;台南市東區建東街41號邊-建東街大榕樹下(後甲里)&lt;br&gt;楊股長 06-2370021</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2369487,22.9902804,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>東區成大里救國團活動中心</name>
+      <description>19 - 台南所東區成大里救國團活動中心&lt;br&gt;台南市東區育樂街58號(成大里)&lt;br&gt;楊股長 06-2370021</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2165333,22.995624,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>東區萊爾富超市</name>
+      <description>20 - 台南所東區萊爾富超市&lt;br&gt;台南市東區大同路1段59號(大同里)&lt;br&gt;楊股長 06-2370021</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2114172,22.9874733,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>東區衛國街</name>
+      <description>21 - 台南所東區衛國街&lt;br&gt;台南市東區衛國街112巷17號(衛國里)&lt;br&gt;楊股長 06-2370021</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2244988,22.9873982,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>東區護東宮</name>
+      <description>22 - 台南所東區護東宮&lt;br&gt;台南市東區東和路102號停車場邊(小東里)&lt;br&gt;楊股長 06-2370021</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2269171,22.9986165,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>東區統帥天下</name>
+      <description>23 - 台南所東區統帥天下&lt;br&gt;台南東區市富農街1段191巷10號(自強里)&lt;br&gt;楊股長 06-2370021</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2224227,22.98133,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>南區大林國宅活動中心</name>
+      <description>24 - 台南所南區大林國宅活動中心&lt;br&gt;台南市南區大同路2段146號&lt;br&gt;楊股長 06-2370021</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2130192,22.9784811,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>南區竹溪里活動中心</name>
+      <description>25 - 台南所南區竹溪里活動中心&lt;br&gt;台南市南區健康路1段113巷51弄1號&lt;br&gt;楊股長 06-2370021</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2093825,22.9792679,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>南區水交社重劃區前</name>
+      <description>26 - 台南所南區水交社重劃區前&lt;br&gt;台南市南區西門路1段279巷對面&lt;br&gt;楊股長 06-2370021</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.1969751,22.9767139,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>南區大恩里</name>
+      <description>27 - 台南所南區大恩里&lt;br&gt;台南市南區國民路165巷52弄26號&lt;br&gt;楊股長 06-2370021</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2109662,22.9663294,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>永康區永康區公所</name>
+      <description>28 - 永康所永康區永康區公所&lt;br&gt;台南市永康區永康區公所前&lt;br&gt;王股長 06-2325714</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.256358,23.027019,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>永康區崑山國小</name>
+      <description>29 - 永康所永康區崑山國小&lt;br&gt;台南市永康區國光五街&lt;br&gt;王股長 06-2325714</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2628111,23.0211779,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>永康區崑山科大</name>
+      <description>30 - 永康所永康區崑山科大&lt;br&gt;台南市永康區崑山科大前&lt;br&gt;王股長 06-2325714</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.252738,22.999031,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>永康區永仁高中</name>
+      <description>31 - 永康所永康區永仁高中&lt;br&gt;台南市永康區忠孝路永仁高中&lt;br&gt;王股長 06-2325714</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2415997,23.0095248,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>永康區龍潭站</name>
+      <description>32 - 永康所永康區龍潭站&lt;br&gt;台南市永康區龍潭活動中心(龍潭街龍國街口)&lt;br&gt;王股長 06-2325714</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2383895,23.0368698,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>永康區三村國小</name>
+      <description>33 - 永康所永康區三村國小&lt;br&gt;台南市永康區鹽行路三村國小&lt;br&gt;王股長 06-2325714</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2320089,23.0423211,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>永康區二王廟</name>
+      <description>34 - 永康所永康區二王廟&lt;br&gt;台南市永康區中山南路二王廟前&lt;br&gt;王股長 06-2325714</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.229211,23.0126141,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>永康區大灣國小</name>
+      <description>35 - 永康所永康區大灣國小&lt;br&gt;台南市永康區大灣國小前&lt;br&gt;王股長 06-2325714</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2628111,23.0211779,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>永康區五王國小</name>
+      <description>36 - 永康所永康區五王國小&lt;br&gt;台南市永康區中華二路五王國小&lt;br&gt;王股長 06-2325714</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2357787,23.0085203,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>永康區勝華街</name>
+      <description>37 - 永康所永康區勝華街&lt;br&gt;台南市永康區勝華街活動中心&lt;br&gt;王股長 06-2325714</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2327694,23.0065248,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>永康區中正站</name>
+      <description>38 - 永康所永康區中正站&lt;br&gt;台南市永康區中正二街、正南三街口&lt;br&gt;王股長 06-2325714</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2628111,23.0211779,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>永康區西勢國小</name>
+      <description>39 - 永康所永康區西勢國小&lt;br&gt;台南市永康區西勢國小前&lt;br&gt;王股長 06-2325714</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2628111,23.0211779,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>永康區和平站</name>
+      <description>40 - 永康所永康區和平站&lt;br&gt;台南市永康區和平路、和平東路廟前&lt;br&gt;王股長 06-2325714</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2656033,23.0563205,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>永康區永信國小</name>
+      <description>41 - 永康所永康區永信國小&lt;br&gt;台南市永康區永信國小前&lt;br&gt;王股長 06-2325714</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2628111,23.0211779,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>永康區中華里活動中心</name>
+      <description>42 - 永康所永康區中華里活動中心&lt;br&gt;台南市永康區忠勇街51號&lt;br&gt;王股長 06-2325714</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2380039,23.0007753,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>永康區西灣里活動中心</name>
+      <description>43 - 永康所永康區西灣里活動中心&lt;br&gt;永台南市永康區華路201巷12號&lt;br&gt;王股長 06-2325714</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2450843,23.0072435,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>永康區大橋國小</name>
+      <description>44 - 永康所永康區大橋國小&lt;br&gt;臺南市永康區大橋三街173號&lt;br&gt;王股長 06-2325714</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.226482,23.0202081,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>永康區中華路與中華一路交叉口(兵仔市)</name>
+      <description>45 - 永康所永康區中華路與中華一路交叉口(兵仔市)&lt;br&gt;台南市永康區中華路與中華一路交叉口&lt;br&gt;王股長 06-2325714</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2299443,23.0146928,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>永康區復興路消防隊</name>
+      <description>46 - 永康所永康區復興路消防隊&lt;br&gt;臺南市永康區復興路172號&lt;br&gt;王股長 06-2325714</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.244589,22.998897,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>永康區榮民醫院停車場</name>
+      <description>47 - 永康所永康區榮民醫院停車場&lt;br&gt;臺南市永康區復興路427號&lt;br&gt;王股長 06-2325714</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2402196,22.9972963,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>永康區忠孝路76巷49弄15號路口</name>
+      <description>48 - 永康所永康區忠孝路76巷49弄15號路口&lt;br&gt;臺南市永康區忠孝路76巷49弄15號路口&lt;br&gt;王股長 06-2325714</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2435997,23.0183747,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>新化區新化區公所</name>
+      <description>49 - 新市所新化區新化區公所&lt;br&gt;台南市新化區中山路130號&lt;br&gt;陳股長 06-5973437</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.310896,23.0385411,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>新化區大坑里活動中心</name>
+      <description>50 - 新市所新化區大坑里活動中心&lt;br&gt;台南市新化區大坑里182號&lt;br&gt;陳股長 06-5973437</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.3752561,23.0109282,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>山上區台糖加油站</name>
+      <description>51 - 新市所山上區台糖加油站&lt;br&gt;台南市山上區豐德里隙子口1-1號&lt;br&gt;陳股長 06-5973437</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.363716,23.076461,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>善化區善化區公所</name>
+      <description>52 - 新市所善化區善化區公所&lt;br&gt;台南市善化區建國路190號&lt;br&gt;陳股長 06-5973437</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2967412,23.1323923,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>善化區嘉拔國小</name>
+      <description>53 - 新市所善化區嘉拔國小&lt;br&gt;台南市善化區嘉北里280號&lt;br&gt;陳股長 06-5973437</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.3349024,23.1428247,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>善化區陽明國小</name>
+      <description>54 - 新市所善化區陽明國小&lt;br&gt;台南市善化區胡家里300號&lt;br&gt;陳股長 06-5973437</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2734741,23.1429554,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>歸仁區保安宮</name>
+      <description>55 - 歸仁所歸仁區保安宮&lt;br&gt;台南市歸仁區看東里忠孝南路82號-北安宮廣場 &lt;br&gt;邱股長 06-2303756</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.3028113,22.9636863,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>歸仁區崙頂廟</name>
+      <description>56 - 歸仁所歸仁區崙頂廟&lt;br&gt;台南市歸仁區崙頂里崙頂街152號-福徳祀廣場 &lt;br&gt;邱股長 06-2303756</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2968202,22.9573538,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>歸仁區八甲廟</name>
+      <description>57 - 歸仁所歸仁區八甲廟&lt;br&gt;台南市歸仁區八甲里大明三街9號-活動中心廣場 &lt;br&gt;邱股長 06-2303756</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2979582,22.9741935,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>歸仁區七甲廟</name>
+      <description>58 - 歸仁所歸仁區七甲廟&lt;br&gt;台南市歸仁區七甲里七甲一街136號-活動中心廣場 &lt;br&gt;邱股長 06-2303756</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2939581,22.98475,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>歸仁區保西國小</name>
+      <description>59 - 歸仁所歸仁區保西國小&lt;br&gt;台南市歸仁區媽廟里中正北路3段60號-保西國小廣場 &lt;br&gt;邱股長 06-2303756</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2936568,22.9935186,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>歸仁區西埔里活動中心</name>
+      <description>60 - 歸仁所歸仁區西埔里活動中心&lt;br&gt;台南市歸仁區西埔里保大路2段162-6號-活動中心廣場 &lt;br&gt;邱股長 06-2303756</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2876413,22.9971099,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>歸仁區大人廟</name>
+      <description>61 - 歸仁所歸仁區大人廟&lt;br&gt;台南市歸仁區大廟里大廟五街27巷口-代天府廣場 &lt;br&gt;邱股長 06-2303756</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2777763,23.0004892,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>歸仁區大潭國小</name>
+      <description>62 - 歸仁所歸仁區大潭國小&lt;br&gt;台南市歸仁區大潭里大潭國小廣場 &lt;br&gt;邱股長 06-2303756</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2945362,22.9098618,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>歸仁區北極殿 </name>
+      <description>63 - 歸仁所歸仁區北極殿 &lt;br&gt;台南市歸仁區六甲里北極殿廣場 &lt;br&gt;邱股長 06-2303756</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2801166,22.9477691,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>歸仁區民生南街廟前</name>
+      <description>64 - 歸仁所歸仁區民生南街廟前&lt;br&gt;台南市歸仁區民生南街2段219-1號-代天府廣場 &lt;br&gt;邱股長 06-2303756</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.279273,22.96058,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>歸仁區清水宮</name>
+      <description>65 - 歸仁所歸仁區清水宮&lt;br&gt;台南市歸仁區文化街3段206號-清水宮前廣場 &lt;br&gt;邱股長 06-2303756</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2836056,22.970366,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>歸仁區仁壽宮</name>
+      <description>66 - 歸仁所歸仁區仁壽宮&lt;br&gt;台南市歸仁區文化街2段16號-仁壽宮前廣場 &lt;br&gt;邱股長 06-2303756</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2914139,22.9700624,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>歸仁區歸仁區公所</name>
+      <description>67 - 歸仁所歸仁區歸仁區公所&lt;br&gt;台南市歸仁區中山路2段2號-鄉公所前廣場 &lt;br&gt;邱股長 06-2303756</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2910965,22.9670246,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>歸仁區仁愛街</name>
+      <description>68 - 歸仁所歸仁區仁愛街&lt;br&gt;台南市歸仁區仁愛街48號電線桿旁&lt;br&gt;邱股長 06-2303756</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.3074439,23.0373563,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>歸仁區歸仁區文化中心</name>
+      <description>69 - 歸仁所歸仁區歸仁區文化中心&lt;br&gt;台南市歸仁區公園路及信義南路交叉口&lt;br&gt;邱股長 06-2303756</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2974875,22.9642889,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>仁德區上崙廟</name>
+      <description>70 - 歸仁所仁德區上崙廟&lt;br&gt;台南市仁德區上崙里德崙路456號-崑崙宮前&lt;br&gt;邱股長 06-2303756</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2615991,22.9421871,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>仁德區德南國小</name>
+      <description>71 - 歸仁所仁德區德南國小&lt;br&gt;台南市仁德區中正路2段209號-德南國小前&lt;br&gt;邱股長 06-2303756</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2512444,22.9487815,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>仁德區仁德區公所</name>
+      <description>72 - 歸仁所仁德區仁德區公所&lt;br&gt;台南市仁德區中正路3段5號-仁德公所前&lt;br&gt;邱股長 06-2303756</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2574701,22.981812,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>仁德區中清路廟前</name>
+      <description>73 - 歸仁所仁德區中清路廟前&lt;br&gt;台南市仁德區中清路82號-清寧代天府前&lt;br&gt;邱股長 06-2303756</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2559567,22.9703953,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>仁德區長興國小</name>
+      <description>74 - 歸仁所仁德區長興國小&lt;br&gt;台南市仁德區土庫路6號-長興國小前&lt;br&gt;邱股長 06-2303756</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.26044,22.9909807,0,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>仁德區明直宮</name>
+      <description>75 - 歸仁所仁德區明直宮&lt;br&gt;台南市仁德區太子路116號-明直宮廟前&lt;br&gt;邱股長 06-2303756</description>
+      <styleUrl>#icon-1067</styleUrl>
+      <Point>
+        <coordinates>120.2661736,22.9914468,0,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</kml>
